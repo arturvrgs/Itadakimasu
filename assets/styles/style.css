@@ -215,5 +215,12 @@ body {
     .apresentacao__direita__img {
         display: none;
     }
-  
+    
+   .apresentacao {
+    margin-top: 100px;
+   }
+
+   .texto__principal {
+    width: 900px;
+   }
   }
